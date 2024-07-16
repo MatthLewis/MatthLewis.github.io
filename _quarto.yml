@@ -13,7 +13,7 @@ website:
     left: "Matthew Lewis 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/matthew-lewis-6137b140/
 
   navbar:
     background: primary
